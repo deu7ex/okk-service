@@ -57,7 +57,7 @@ POST /api/login
   "password": "password"
 }
 ```
-####Ответ:
+#### Ответ:
 ```
 {
   "token": "Bearer <ваш_токен>",
@@ -82,7 +82,7 @@ Authorization: Bearer <token>
   "metadata": { "user_id": 123 }
 }
 ```
-####Ответ
+#### Ответ
 ```
 {
   "message": "Task created",
