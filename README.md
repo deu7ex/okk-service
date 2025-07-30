@@ -18,8 +18,7 @@ Laravel-сервис для имитации постановки задач н�
 - [Установить Docker][docker-install]
 - Клонировать репозиторий:
 ```bash
-git clone git@github.com:deu7ex/stream-encryption.git
-cd stream-encryption
+git clone git@github.com:deu7ex/okk-service.git
 ```
 - Скопировать .env в корне проекта и папке docker:
 ```bash
